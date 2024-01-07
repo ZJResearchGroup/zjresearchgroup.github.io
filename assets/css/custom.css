@@ -1,0 +1,9 @@
+#logo {
+    object-fit: cover;
+    width: 100%;
+    height: 40px;
+}
+
+.blog-header-logo  {
+    width: 600px;
+}
